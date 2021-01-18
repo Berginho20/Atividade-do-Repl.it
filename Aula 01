@@ -1,0 +1,10 @@
+using System;
+
+class MainClass {
+  public static void Main (string[] args) {
+    Console.WriteLine ("Hello World");
+    int a = (3/4);
+    double b = (6.0/4);
+    Console.WriteLine($"{a} e {b}");
+  }
+}
